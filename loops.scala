@@ -27,3 +27,5 @@ object loops:
 
 
     //fazer o capítulo de classes agora 
+
+    //removido as pastas
