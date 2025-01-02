@@ -1,0 +1,73 @@
+2025.01.01 21:19:17 INFO  Started: Metals version 1.4.2 in folders '/home/rafael/Scala-Lectures' for client Visual Studio Code 1.96.2.[0m
+2025.01.01 21:19:17 INFO  no build target found for /home/rafael/Scala-Lectures/loops.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.01 21:19:20 INFO  Running List(/home/rafael/.local/share/coursier/bin/scala-cli, setup-ide, /home/rafael/Scala-Lectures)[0m
+2025.01.01 21:19:20 INFO  Attempting to connect to the build server...[0m
+2025.01.01 21:19:20 INFO  Running BSP server List(/home/rafael/.local/share/coursier/bin/.scala-cli.aux, bsp, --json-options, /home/rafael/Scala-Lectures/.scala-build/ide-options-v2.json, --json-launcher-options, /home/rafael/Scala-Lectures/.scala-build/ide-launcher-options.json, --envs-file, /home/rafael/Scala-Lectures/.scala-build/ide-envs.json, /home/rafael/Scala-Lectures)[0m
+2025.01.01 21:19:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/rafael/Scala-Lectures/.metals/bsp.trace.json or /home/rafael/.cache/metals/bsp.trace.json[0m
+2025.01.01 21:19:20 INFO  BSP server: Starting compilation server[0m
+2025.01.01 21:19:21 INFO  no build target found for /home/rafael/Scala-Lectures/loops.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Jan 01, 2025 9:19:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2025.01.01 21:19:21 INFO  no build target found for /home/rafael/Scala-Lectures/loops.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.01 21:19:21 INFO  no build target found for /home/rafael/Scala-Lectures/loops.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Jan 01, 2025 9:19:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2025.01.01 21:19:21 INFO  no build target found for /home/rafael/Scala-Lectures/loops.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.01 21:19:21 INFO  no build target found for /home/rafael/Scala-Lectures/loops.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.01 21:19:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.5.2/scala3-compiler_3-3.5.2.pom[0m
+2025.01.01 21:19:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.5.2/scala3-compiler_3-3.5.2.pom[0m
+2025.01.01 21:19:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.5.2/tasty-core_3-3.5.2.pom[0m
+2025.01.01 21:19:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.5.2/scala3-interfaces-3.5.2.pom[0m
+2025.01.01 21:19:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.5.2/scala3-library_3-3.5.2.pom[0m
+2025.01.01 21:19:22 INFO  no build target found for /home/rafael/Scala-Lectures/loops.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.01 21:19:22 INFO  no build target found for /home/rafael/Scala-Lectures/loops.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.01 21:19:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.5.2/scala3-interfaces-3.5.2.pom[0m
+2025.01.01 21:19:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.5.2/scala3-library_3-3.5.2.pom[0m
+2025.01.01 21:19:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.5.2/tasty-core_3-3.5.2.pom[0m
+2025.01.01 21:19:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.5.2/scala3-library_3-3.5.2.jar[0m
+2025.01.01 21:19:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.5.2/scala3-interfaces-3.5.2.jar[0m
+2025.01.01 21:19:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.5.2/scala3-compiler_3-3.5.2.jar[0m
+2025.01.01 21:19:22 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.5.2/tasty-core_3-3.5.2.jar[0m
+2025.01.01 21:19:22 INFO  no build target found for /home/rafael/Scala-Lectures/loops.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.01 21:19:22 INFO  no build target found for /home/rafael/Scala-Lectures/loops.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.01 21:19:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.5.2/scala3-interfaces-3.5.2.jar[0m
+2025.01.01 21:19:22 INFO  no build target found for /home/rafael/Scala-Lectures/loops.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.01 21:19:23 INFO  no build target found for /home/rafael/Scala-Lectures/loops.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.01 21:19:22 INFO  no build target found for /home/rafael/Scala-Lectures/loops.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.01 21:19:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.5.2/tasty-core_3-3.5.2.jar[0m
+2025.01.01 21:19:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.5.2/scala3-library_3-3.5.2.jar[0m
+2025.01.01 21:19:22 INFO  no build target found for /home/rafael/Scala-Lectures/loops.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.01 21:19:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.5.2/scala3-compiler_3-3.5.2.jar[0m
+2025.01.01 21:19:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.5.2/scala3-sbt-bridge-3.5.2.pom[0m
+2025.01.01 21:19:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.5.2/scala3-sbt-bridge-3.5.2.pom[0m
+2025.01.01 21:19:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.5.2/scala3-sbt-bridge-3.5.2.jar[0m
+2025.01.01 21:19:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.5.2/scala3-sbt-bridge-3.5.2.jar[0m
+2025.01.01 21:19:23 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.5.2/scala3-library_3-3.5.2-sources.jar[0m
+2025.01.01 21:19:24 INFO  no build target found for /home/rafael/Scala-Lectures/loops.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.01 21:19:23 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.5.2/scala3-library_3-3.5.2-sources.jar[0m
+2025.01.01 21:19:24 INFO  time: Connected to build server in 4.2s[0m
+2025.01.01 21:19:24 INFO  Connected to Build server: scala-cli v1.5.4[0m
+2025.01.01 21:19:24 INFO  compiling scala-lectures_d5c0a6989e (3 scala sources)[0m
+2025.01.01 21:19:24 INFO  no build target found for /home/rafael/Scala-Lectures/loops.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.01 21:19:28 INFO  time: Imported build in 3.73s[0m
+2025.01.01 21:19:28 INFO  running doctor check[0m
+2025.01.01 21:19:28 INFO  java targets: Scala-Lectures_d5c0a6989e, Scala-Lectures_d5c0a6989e-test[0m
+2025.01.01 21:19:31 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2025.01.01 21:19:31 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/src.zip, /usr/lib/jvm/java-21-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2025.01.01 21:19:31 INFO  time: indexed workspace in 3.91s[0m
+2025.01.01 21:20:07 INFO  compiling scala-lectures_d5c0a6989e (1 scala source)[0m
+2025.01.01 21:20:07 INFO  time: compiled Scala-Lectures_d5c0a6989e in 0.23s[0m
+2025.01.01 21:20:14 INFO  compiling scala-lectures_d5c0a6989e (1 scala source)[0m
+2025.01.01 21:20:14 INFO  time: compiled Scala-Lectures_d5c0a6989e in 0.15s[0m
+2025.01.01 21:20:22 INFO  compiling scala-lectures_d5c0a6989e (1 scala source)[0m
+2025.01.01 21:20:22 INFO  time: compiled Scala-Lectures_d5c0a6989e in 0.14s[0m
+2025.01.01 21:22:00 INFO  compiling scala-lectures_d5c0a6989e (1 scala source)[0m
+2025.01.01 21:22:00 INFO  time: compiled Scala-Lectures_d5c0a6989e in 0.45s[0m
+2025.01.01 21:28:08 INFO  compiling scala-lectures_d5c0a6989e (1 scala source)[0m
+2025.01.01 21:28:08 INFO  time: compiled Scala-Lectures_d5c0a6989e in 0.92s[0m
+2025.01.01 21:28:16 INFO  compiling scala-lectures_d5c0a6989e (1 scala source)[0m
+2025.01.01 21:28:16 INFO  time: compiled Scala-Lectures_d5c0a6989e in 0.36s[0m
+2025.01.01 21:28:59 INFO  compiling scala-lectures_d5c0a6989e (1 scala source)[0m
+2025.01.01 21:28:59 INFO  time: compiled Scala-Lectures_d5c0a6989e in 0.41s[0m
+2025.01.01 21:44:38 INFO  compiling scala-lectures_d5c0a6989e (1 scala source)[0m
+2025.01.01 21:44:38 INFO  time: compiled Scala-Lectures_d5c0a6989e in 0.81s[0m

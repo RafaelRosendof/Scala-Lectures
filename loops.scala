@@ -14,3 +14,16 @@ object loops:
       println(i)
       println(i * 2)
       
+
+    
+
+    for i <- 0 until 10 do println(i)
+
+    for i <- 0 to 10 do println(i)
+
+    val l3 = 3 
+
+    if l3 > 1 then println("true") else println("false")
+
+
+    //fazer o capítulo de classes agora 
